@@ -39,13 +39,13 @@ class Footbar extends Component {
               </Col>
             </Row>
           </Col>
-          <Col xs lg="3" className="col-footbar1">
+          <Col className="col-footbar1">
             <h5 className="title-menu">Menu Bantuan</h5>
             <p className="name-menu">Keunggulan</p>
             <p className="name-menu">Fitur</p>
             <p className="name-menu">Testimoni</p>
           </Col>
-          <Col xs lg="3" className="col-footbar1">
+          <Col className="col-footbar1">
             <h5 className="title-contact">Informasi kontak</h5>
             <p className="name-contact">0812-9797-1227</p>
             <p className="name-contact">0812-9797-1227</p>

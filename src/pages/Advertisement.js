@@ -11,18 +11,13 @@ export default class Advertisement extends Component {
       <>
         <Row className="container-add">
           <Col className="col-one-add">
-            <h1 className="title-add">
-              Kirim berbagi jenis
-              <br />
-              ikan dengan mudah
-            </h1>
+            <h1 className="title-add">Kirim berbagi jenis ikan dengan mudah</h1>
             <p className="description-add">
-              A Lorem Ipsum is simply dummy text of the printing and
-              <br />
-              typesetting industry. Lorem Ipsum has been the industry's
+              A Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry. Lorem Ipsum has been the industry's
             </p>
             <Image
-              className="logo-google"
+              className="logo-google float-star"
               src={logoGoogleApp}
               alt="google-play"
             />
@@ -37,8 +32,13 @@ export default class Advertisement extends Component {
               </Col>
             </Row>
           </Col>
+
           <Col className="col-two">
-            <Image className="phone-image-add" src={phone1} alt="phone" />
+            <Image
+              className="phone-image-add mx-auto d-block"
+              src={phone1}
+              alt="phone"
+            />
             <Image className="fish1" src={fish1} alt="fish" />
           </Col>
         </Row>
@@ -67,7 +67,7 @@ export default class Advertisement extends Component {
           </Col>
           <Col className="col-check text-center">
             <h3 className="title-check">Cek Tarif Pengirman Anda</h3>
-            <Row style={{ margin: "auto" }}>
+            <Row className="form-rates">
               <Col>
                 <Form.Control type="text" placeholder="Origin" />
               </Col>
@@ -81,9 +81,6 @@ export default class Advertisement extends Component {
                 style={{
                   backgroundColor: "#F2572E",
                   borderColor: "#F2572E",
-                  marginTop: "26px",
-                  marginRight: "10px",
-                  marginLeft: "10px",
                 }}
               >
                 Check

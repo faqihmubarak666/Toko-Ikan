@@ -1,6 +1,6 @@
 .container-add{
-    padding-top: 80px;
-    padding-bottom: 80px;
+    padding-top: 150px;
+    padding-bottom: 150px;
 }
 
 .col-one-add{
@@ -9,11 +9,14 @@
 
 .title-add{
     font-size: 54px;
+    margin-right: 70px;
 }
 
 .description-add{
     font-size: 18px;
     color: #807D7D;
+    margin-right: 70px;
+
 }
 
 .number{
@@ -29,19 +32,18 @@
 
 .logo-google{
     width: 300px;
-    margin-left: -10px;
 }
 
 .col-two{
     background-image: url("../images/rectangle.png");
     background-repeat: no-repeat;
     background-size:  600px 300px;
-    background-position: right center;
+    background-position: right;
 }
 
 .phone-image-add {
-    position: absolute;
-    height: 700px;
+    position: absolute; 
+    height: 700px; 
     margin-top: -160px;
 }
 
@@ -51,15 +53,14 @@ width: 300px;
 height: 300px;
 margin-top: 30px;
 margin-left: -90px;
-}
+} 
 
 
-.col-check{
+ .col-check{
     background-image: url(../images/rectangle2.png);
     background-size: cover;
     color: white;
     padding: 60px;   
-    margin: auto;
 }
 
 .title-tracking{
@@ -72,6 +73,11 @@ margin-left: -90px;
 
 
 .title-check{
-    margin-bottom: 20px;
     font-size: 35px;
+    margin-bottom: 22px;
+
+}
+
+.form-rates{
+    margin-bottom: 22px;
 }

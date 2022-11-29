@@ -18,10 +18,8 @@ export default class Superiority extends Component {
         <h1 className="tittle-superiority">Keunggulan kami</h1>
         <p className="description-superiority">
           A Lorem Ipsum is simply dummy text of the printing and typesetting
-          <br />
-          industry. Lorem Ipsum has been the industry's standard dummy text
-          <br />
-          ever since the 1500s.
+          industry. Lorem Ipsum has been the industry's standard dummy text ever
+          since the 1500s.
         </p>
         <Row className="container-card">
           <Col>
@@ -66,11 +64,8 @@ export default class Superiority extends Component {
           <Col className="col-fitur1">
             <h1 className="title-fitur">Berbagai Metode Pengiriman</h1>
             <p className="description-fitur">
-              A Lorem Ipsum is simply dummy text of the printing
-              <br />
-              and typesetting industry. Lorem Ipsum has been the
-              <br />
-              industry's standard.
+              A Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry. Lorem Ipsum has been the industry's standard.
             </p>
           </Col>
           <Col className="col-fitur2">
@@ -87,30 +82,20 @@ export default class Superiority extends Component {
           <Col className="col-fitur4">
             <h1 className="title-fitur2">Lacak status pengiriman anda</h1>
             <p className="description-fitur2">
-              A Lorem Ipsum is simply dummy text of the printing and
-              <br />
-              typesetting industry. Lorem Ipsum has been the industry's
-              <br /> standard dummy text ever since the 1500s, when an unknown.
-              <br /> A Lorem Ipsum is simply dummy text of the printing and
-              <br />
-              typesetting industry.
+              A Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry. Lorem Ipsum has been the industry's standard dummy text
+              ever since the 1500s, when an unknown. A Lorem Ipsum is simply
+              dummy text of the printing and typesetting industry.
             </p>
           </Col>
         </Row>
 
         <Row className="row-fitur">
           <Col className="col-fitur1">
-            <h1 className="title-fitur">
-              Cek schedule
-              <br />
-              pengiriman anda
-            </h1>
+            <h1 className="title-fitur">Cek schedule pengiriman anda</h1>
             <p className="description-fitur">
-              A Lorem Ipsum is simply dummy text of the printing
-              <br />
-              and typesetting industry. Lorem Ipsum has been the
-              <br />
-              industry's standard.
+              A Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry. Lorem Ipsum has been the industry's standard.
             </p>
           </Col>
           <Col className="col-fitur2">

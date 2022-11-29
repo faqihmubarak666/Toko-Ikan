@@ -1,6 +1,6 @@
 .col-footbar1{
-    padding: 70px;
-    margin-left: 40px;
+    padding:90px;
+    margin-left: 80px;
 }
 
 .description-footbar{
@@ -30,26 +30,26 @@
 
 .title-menu{
     font-size: 24px;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 }
 
 .name-menu{
     color: #807D7D;
     font-size: 20px;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 
 }
 
 .title-contact{
     font-size: 24px;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 
 }
 
 .name-contact{
     color: #807D7D;
     font-size: 20px;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 
 }
 

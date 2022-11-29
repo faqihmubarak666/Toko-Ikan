@@ -15,7 +15,6 @@ export default class Testimonial extends Component {
         <h1 className="title-testimoni">Testimonial</h1>
         <p className="description-testimoni">
           A Lorem Ipsum is simply dummy text of the printing and typesetting
-          <br />
           industry. Lorem Ipsum has been the industry's standard dummy text
         </p>
         <Row className="box-card">
@@ -35,11 +34,7 @@ export default class Testimonial extends Component {
 
         <Row className="row-download">
           <Col>
-            <h1 className="title-download">
-              Available and
-              <br />
-              Download Anytime!
-            </h1>
+            <h1 className="title-download">Available and Download Anytime!</h1>
             <p className="description-download">
               A Lorem Ipsum is simply dummy text of the printing and
             </p>
