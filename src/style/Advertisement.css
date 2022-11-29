@@ -1,0 +1,77 @@
+.container-add{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.col-one-add{
+    margin-left: 70px;
+}
+
+.title-add{
+    font-size: 54px;
+}
+
+.description-add{
+    font-size: 18px;
+    color: #807D7D;
+}
+
+.number{
+    font-size: 40px;
+    color: #DC1E23;
+    font-weight: bold;
+}
+
+.text{
+    font-size: 18px;
+    color: #807D7D;
+}
+
+.logo-google{
+    width: 300px;
+    margin-left: -10px;
+}
+
+.col-two{
+    background-image: url("../images/rectangle.png");
+    background-repeat: no-repeat;
+    background-size:  600px 300px;
+    background-position: right center;
+}
+
+.phone-image-add {
+    position: absolute;
+    height: 700px;
+    margin-top: -160px;
+}
+
+.fish1{
+position: absolute;
+width: 300px;
+height: 300px;
+margin-top: 30px;
+margin-left: -90px;
+}
+
+
+.col-check{
+    background-image: url(../images/rectangle2.png);
+    background-size: cover;
+    color: white;
+    padding: 60px;   
+    margin: auto;
+}
+
+.title-tracking{
+    font-size: 35px;
+}
+
+.descrption-tracking {
+    font-size: 20px;
+}
+
+
+.title-check{
+    margin-bottom: 20px;
+    font-size: 35px;
+}

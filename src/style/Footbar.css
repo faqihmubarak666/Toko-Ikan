@@ -1,0 +1,60 @@
+.col-footbar1{
+    padding: 70px;
+    margin-left: 40px;
+}
+
+.description-footbar{
+    font-size: 20px;
+    color: #807D7D;
+}
+
+.logo-jbg{
+    width: 100px;
+}
+
+.logo-facebook{
+    height: 50px;
+    width: 50px;
+}
+
+.logo-twitter{
+    height: 50px;
+    width: 50px;
+    margin-left: -70px;
+}
+.logo-instragram{
+    height: 50px;
+    width: 50px;
+    margin-left: -140px;
+}
+
+.title-menu{
+    font-size: 24px;
+    margin-bottom: 40px;
+}
+
+.name-menu{
+    color: #807D7D;
+    font-size: 20px;
+    margin-bottom: 40px;
+
+}
+
+.title-contact{
+    font-size: 24px;
+    margin-bottom: 40px;
+
+}
+
+.name-contact{
+    color: #807D7D;
+    font-size: 20px;
+    margin-bottom: 40px;
+
+}
+
+footer{
+    font-size: 20px;
+    text-align: center;
+    color: #807D7D;
+}
