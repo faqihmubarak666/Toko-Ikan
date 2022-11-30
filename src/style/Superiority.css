@@ -15,6 +15,7 @@
 
 .container-card{
     padding: 80px;
+    margin-bottom: 150px;
 }
 
 .card{
@@ -37,7 +38,7 @@ margin-bottom: 180px;
 
 .title-fitur{
     font-size: 48px;
-    margin-top: 120px;
+    margin-top: 60px;
     margin-right: 130px;
 }
 
@@ -52,29 +53,27 @@ margin-bottom: 180px;
 .col-fitur2{
     background-image: url("../images/rectangle.png");
     background-repeat: no-repeat;
-    background-size:  637px 300px;
-    background-position: right center;
+    background-size:  90% auto;
+    background-position-x: right;
 }
 
 .phone-image {
-    position: absolute;
     height: 600px;
-    margin-top: -80px;
+    margin-top: -120px;
 }
 
 .fish2{
-position: absolute;
-width: 250px;
-height: 250px;
-margin-top: 30px;
-margin-left: -140px;
+    width: 250px;
+    height: 250px;
+    margin-top: -730px;
+    margin-left: -80px;
 }
 
 .col-fitur3{
     background-image: url("../images/rectangle3.png");
     background-repeat: no-repeat;
-    background-size:  637px 300px;
-    background-position: left center;
+    background-size:  90% auto;
+    background-position-x: left;
 }
 
 .row-fitur2{
@@ -99,33 +98,28 @@ margin-left: -140px;
 
 .col-fitur4{
     margin-left: 75px;
-
 }
 
 .phone-image3{
-    position: absolute;
     height: 600px;
-    margin-top: -130px;
+    margin-top: -120px;
 }
 
 .fish3{
     position: absolute;
     width: 250px;
     height: 250px;
-    margin-top: 30px;
-    margin-left: 480px;
+    margin-left: -140px;
 }
 
 .phone-image4 {
-    position: absolute;
     height: 600px;
-    margin-top: -80px;
+    margin-top: -120px;
 }
 
 .fish4{
-position: absolute;
-width: 250px;
-height: 250px;
-margin-top: 70px;
-margin-left: -140px;
+    width: 250px;
+    height: 250px;
+    margin-top: -670px;
+    margin-left: -120px;
 }
