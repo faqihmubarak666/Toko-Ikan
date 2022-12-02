@@ -1,16 +1,18 @@
 .col-footbar1{
-    padding:90px;
+    padding:40px;
     margin-left: 80px;
 }
 
 .description-footbar{
     font-size: 20px;
     color: #807D7D;
+    text-align: justify;
 }
 
 .logo-jbg{
-    width: 100px;
+    width: 150px;
 }
+
 
 .logo-facebook{
     height: 50px;
@@ -20,12 +22,10 @@
 .logo-twitter{
     height: 50px;
     width: 50px;
-    margin-left: -70px;
 }
 .logo-instragram{
     height: 50px;
     width: 50px;
-    margin-left: -140px;
 }
 
 .title-menu{

@@ -21,7 +21,7 @@ export default class Advertisement extends Component {
               src={logoGoogleApp}
               alt="google-play"
             />
-            <Row>
+            <Row className="row-active-users">
               <Col>
                 <p className="number">1.9k+</p>
                 <p className="text">Active Users</p>

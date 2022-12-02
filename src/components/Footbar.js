@@ -39,7 +39,7 @@ class Footbar extends Component {
               </Col>
             </Row>
           </Col>
-          <Col className="col-footbar1">
+          <Col xs lg="2" className="col-footbar1">
             <h5 className="title-menu">Menu Bantuan</h5>
             <p className="name-menu">Keunggulan</p>
             <p className="name-menu">Fitur</p>

@@ -15,7 +15,18 @@
     width: 250px;
     float: right;
     margin-top: 50px;
-    margin-bottom: 170px;
+    margin-bottom: 200px;
+}
+
+@media screen and (max-width:900px){
+    .card-testimoni{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 180px;
+        width: 180px;
+        margin-bottom: 100px;
+    }    
 }
 
 .row-download {
@@ -26,6 +37,12 @@
 
 .google-app{
     width: 300px;
+}
+
+@media screen and (max-width:900px){
+    .google-app{
+        margin-bottom: 200px;
+    }    
 }
 
 .title-download{
@@ -39,7 +56,7 @@ color: white;
 }
 
 .img-courier{
-    position: absolute;
     height: 450px;
     margin-top: -182px;
+    margin-bottom: -57px;
 }
